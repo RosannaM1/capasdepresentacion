@@ -1,0 +1,48 @@
+C:\Users\18297\source\repos\CapadePresentacionApp\CapadePresentacionApp\bin\Debug\CapadePresentacionApp.exe.config
+C:\Users\18297\source\repos\CapadePresentacionApp\CapadePresentacionApp\bin\Debug\CapadePresentacionApp.exe
+C:\Users\18297\source\repos\CapadePresentacionApp\CapadePresentacionApp\bin\Debug\CapadePresentacionApp.pdb
+C:\Users\18297\source\repos\CapadePresentacionApp\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.csproj.AssemblyReference.cache
+C:\Users\18297\source\repos\CapadePresentacionApp\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.Form1.resources
+C:\Users\18297\source\repos\CapadePresentacionApp\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.Properties.Resources.resources
+C:\Users\18297\source\repos\CapadePresentacionApp\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.csproj.GenerateResource.cache
+C:\Users\18297\source\repos\CapadePresentacionApp\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.csproj.CoreCompileInputs.cache
+C:\Users\18297\source\repos\CapadePresentacionApp\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.exe
+C:\Users\18297\source\repos\CapadePresentacionApp\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.pdb
+C:\Users\18297\source\repos\CapadePresentacionApp\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.FPaint.resources
+C:\Users\18297\source\repos\CapadePresentacionApp\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.FEditText.resources
+C:\Users\matan\Source\Repos\PaintyEditordeTextoBasico\CapadePresentacionApp\bin\Debug\CapadePresentacionApp.exe.config
+C:\Users\matan\Source\Repos\PaintyEditordeTextoBasico\CapadePresentacionApp\bin\Debug\CapadePresentacionApp.exe
+C:\Users\matan\Source\Repos\PaintyEditordeTextoBasico\CapadePresentacionApp\bin\Debug\CapadePresentacionApp.pdb
+C:\Users\matan\Source\Repos\PaintyEditordeTextoBasico\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.csproj.AssemblyReference.cache
+C:\Users\matan\Source\Repos\PaintyEditordeTextoBasico\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.FEditText.resources
+C:\Users\matan\Source\Repos\PaintyEditordeTextoBasico\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.Form1.resources
+C:\Users\matan\Source\Repos\PaintyEditordeTextoBasico\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.FPaint.resources
+C:\Users\matan\Source\Repos\PaintyEditordeTextoBasico\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.Properties.Resources.resources
+C:\Users\matan\Source\Repos\PaintyEditordeTextoBasico\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.csproj.GenerateResource.cache
+C:\Users\matan\Source\Repos\PaintyEditordeTextoBasico\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.csproj.CoreCompileInputs.cache
+C:\Users\matan\Source\Repos\PaintyEditordeTextoBasico\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.exe
+C:\Users\matan\Source\Repos\PaintyEditordeTextoBasico\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.pdb
+C:\Users\Rosanna M\Downloads\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\bin\Debug\CapadePresentacionApp.exe.config
+C:\Users\Rosanna M\Downloads\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\bin\Debug\CapadePresentacionApp.exe
+C:\Users\Rosanna M\Downloads\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\bin\Debug\CapadePresentacionApp.pdb
+C:\Users\Rosanna M\Downloads\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.csproj.AssemblyReference.cache
+C:\Users\Rosanna M\Downloads\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.FEditText.resources
+C:\Users\Rosanna M\Downloads\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.Form1.resources
+C:\Users\Rosanna M\Downloads\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.FPaint.resources
+C:\Users\Rosanna M\Downloads\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.Properties.Resources.resources
+C:\Users\Rosanna M\Downloads\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.csproj.GenerateResource.cache
+C:\Users\Rosanna M\Downloads\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.csproj.CoreCompileInputs.cache
+C:\Users\Rosanna M\Downloads\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.exe
+C:\Users\Rosanna M\Downloads\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.pdb
+C:\Users\Rosanna M\Desktop\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\bin\Debug\CapadePresentacionApp.exe.config
+C:\Users\Rosanna M\Desktop\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\bin\Debug\CapadePresentacionApp.exe
+C:\Users\Rosanna M\Desktop\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\bin\Debug\CapadePresentacionApp.pdb
+C:\Users\Rosanna M\Desktop\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.csproj.AssemblyReference.cache
+C:\Users\Rosanna M\Desktop\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.FEditText.resources
+C:\Users\Rosanna M\Desktop\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.Form1.resources
+C:\Users\Rosanna M\Desktop\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.FPaint.resources
+C:\Users\Rosanna M\Desktop\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.Properties.Resources.resources
+C:\Users\Rosanna M\Desktop\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.csproj.GenerateResource.cache
+C:\Users\Rosanna M\Desktop\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.csproj.CoreCompileInputs.cache
+C:\Users\Rosanna M\Desktop\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.exe
+C:\Users\Rosanna M\Desktop\PaintyEditordeTextoBasico-main\PaintyEditordeTextoBasico-main\CapadePresentacionApp\obj\Debug\CapadePresentacionApp.pdb
