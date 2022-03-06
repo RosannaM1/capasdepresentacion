@@ -1,4 +1,4 @@
-# PaintyEditordeTextoBasico
+# Practica Capa de Presentación
 Tarea de programacion II
 Elaborar una aplicación que muestre 2 opciones en la primera pantalla:
 
